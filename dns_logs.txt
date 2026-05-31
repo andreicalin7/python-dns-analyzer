@@ -1,0 +1,9 @@
+[19:47:39] google.com MX -> 10 smtp.google.com.
+[19:47:44] google.com MX -> 10 smtp.google.com.
+[20:55:46] 8.8.8.8 -> dns.google.
+[21:17:59] google.com NS -> ns4.google.com.
+[21:17:59] google.com NS -> ns3.google.com.
+[21:17:59] google.com NS -> ns1.google.com.
+[21:17:59] google.com NS -> ns2.google.com.
+[21:28:59] 8.8.8.8 -> dns.google.
+[21:32:51] 8.8.8.8 -> dns.google.
